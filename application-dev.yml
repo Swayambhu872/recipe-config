@@ -1,1 +1,8 @@
 
+spring:
+  profiles:
+    active: dev
+
+api:
+  recipe:
+    url: https://dummyjson.com/recipes
